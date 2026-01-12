@@ -13,7 +13,7 @@ FoamFile
     object      functions;
 }
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
-//NOTE: fieldAverage was only ran when needed.
+//NOTE: functions were only ran when needed.
 
 residuals
 {
